@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Codewars Badge](https://www.codewars.com/users/ludaalt/badges/micro)](https://www.codewars.com/users/ludaalt)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ludaalt4&theme=dark)](https://github.com/ludaalt/leetcode-stats)
 
 <!--
 **ludaalt/ludaalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
