@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Codewars Badge](https://www.codewars.com/users/ludaalt/badges/micro)](https://www.codewars.com/users/ludaalt)
+
 <!--
 **ludaalt/ludaalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
