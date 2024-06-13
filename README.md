@@ -6,6 +6,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ludaalt?theme=dark&font=Noto%20Sans%20Tamil)
 
 🍎 You can visit my [Hexlet profile](https://ru.hexlet.io/u/user-31d24a045d82e6e6)
+
+![](https://komarev.com/ghpvc/?username=ludaalt&color=9C89E9&label=DETECTED👁️&style=for-the-badge)
 <!--
 **ludaalt/ludaalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
