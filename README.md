@@ -3,11 +3,12 @@
 [![Codewars Badge](https://www.codewars.com/users/ludaalt/badges/micro)](https://www.codewars.com/users/ludaalt)
 <br />
 <br />
-![LeetCode Stats](https://leetcard.jacoblin.cool/ludaalt?theme=dark&font=Noto%20Sans%20Tamil)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ludaalt?ext=heatmap)
 
 🍎 You can visit my [Hexlet profile](https://ru.hexlet.io/u/user-31d24a045d82e6e6)
+
+[comment]: <> (![LeetCode Stats](https://leetcard.jacoblin.cool/ludaalt?theme=dark&font=Noto%20Sans%20Tamil))
 
 <!--
 **ludaalt/ludaalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
