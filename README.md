@@ -5,6 +5,8 @@
 <br />
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ludaalt?theme=dark&font=Noto%20Sans%20Tamil)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ludaalt?ext=heatmap)
+
 🍎 You can visit my [Hexlet profile](https://ru.hexlet.io/u/user-31d24a045d82e6e6)
 
 <!--
